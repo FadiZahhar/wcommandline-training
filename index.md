@@ -42,22 +42,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 4. How (not) to shoot yourself 
+## 4. File Management
 
-### 1 Delete all the things
-<iframe src="https://player.vimeo.com/video/658718291" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Locating, Comparing & Encrypting Files
+<iframe src="https://player.vimeo.com/video/658724141" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Super user does…sudo
-<iframe src="https://player.vimeo.com/video/658718448" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 File Attributes
+<iframe src="https://player.vimeo.com/video/658724415" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Permissions mode & owner
-<iframe src="https://player.vimeo.com/video/658718601" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Kill kill kill!
-<iframe src="https://player.vimeo.com/video/658718772" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Health checking
-<iframe src="https://player.vimeo.com/video/658719027" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 File Associations
+<iframe src="https://player.vimeo.com/video/658724901" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
