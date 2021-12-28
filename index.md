@@ -78,6 +78,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 7. Bonus Lectures
+
+### 1 Tips & Tricks
+<iframe src="https://player.vimeo.com/video/658726944" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Conclusion (Bonus)
+<iframe src="https://player.vimeo.com/video/658727322" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
