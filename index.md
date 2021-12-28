@@ -29,22 +29,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Tools of the Terminal Trade
+## 3. Batch Scripting
 
-### 1 Connecting programs
-<iframe src="https://player.vimeo.com/video/658717694" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Scripting #1 Basics
+<iframe src="https://player.vimeo.com/video/658723241" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 echo & cat
-<iframe src="https://player.vimeo.com/video/658717887" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Scripting #2 Loops
+<iframe src="https://player.vimeo.com/video/658723639" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 grep searching
-<iframe src="https://player.vimeo.com/video/658717937" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 head tail less
-<iframe src="https://player.vimeo.com/video/658718014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 sort  uniq
-<iframe src="https://player.vimeo.com/video/658718175" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Scripting #3 Task Completion
+<iframe src="https://player.vimeo.com/video/658723840" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
