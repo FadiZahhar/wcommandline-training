@@ -55,28 +55,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 5. Making the shell your own
+## 5. System Administration & Management 
 
-### 1 Owning your terminal
-<iframe src="https://player.vimeo.com/video/658719251" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Task Management & Scheduling
+<iframe src="https://player.vimeo.com/video/658725229" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Fish
-<iframe src="https://player.vimeo.com/video/658719416" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 System Configuration & Maintenance
+<iframe src="https://player.vimeo.com/video/658725544" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Themes
-<iframe src="https://player.vimeo.com/video/658719588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 zsh zed shell
-<iframe src="https://player.vimeo.com/video/658719631" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 zsh plugins z st (and more)
-<iframe src="https://player.vimeo.com/video/658719854" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 Aliases
-<iframe src="https://player.vimeo.com/video/658720015" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 Beyond aliases functions
-<iframe src="https://player.vimeo.com/video/658720113" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Editing The Registry
+<iframe src="https://player.vimeo.com/video/658726014" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
