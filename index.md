@@ -68,40 +68,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 6. Web development workflow
+## 6. Networking Tools (Optional)
 
-### 1 Piping workflow
-<iframe src="https://player.vimeo.com/video/658720249" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Troubleshooting Networks
+<iframe src="https://player.vimeo.com/video/658726292" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Setting environment values
-<iframe src="https://player.vimeo.com/video/658720380" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Managing Networks
+<iframe src="https://player.vimeo.com/video/658726581" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Default environment variable values
-<iframe src="https://player.vimeo.com/video/658720441" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 Terminal editors
-<iframe src="https://player.vimeo.com/video/658720475" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 wget and cURL
-<iframe src="https://player.vimeo.com/video/658720565" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 6 ngrok for tunnelling
-<iframe src="https://player.vimeo.com/video/658720734" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 7 json command for data massage
-<iframe src="https://player.vimeo.com/video/658720832" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 awk for splitting output into columns
-<iframe src="https://player.vimeo.com/video/658720974" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 9 xargs (for when pipes won't do)
-<iframe src="https://player.vimeo.com/video/658721045" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 watch to monitor programs (and tricks)
-<iframe src="https://player.vimeo.com/video/658721076" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 11 Ponies to brighten up your terminal
-<iframe src="https://player.vimeo.com/video/658721176" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Markdown
