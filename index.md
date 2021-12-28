@@ -18,22 +18,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Install all the things
+## 2. Redirectors & Applications
 
-### 1 Running applications
-<iframe src="https://player.vimeo.com/video/658717055" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Redirectors
+<iframe src="https://player.vimeo.com/video/658722373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 brew install fun
-<iframe src="https://player.vimeo.com/video/658717150" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 3 gem install
-<iframe src="https://player.vimeo.com/video/658717313" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 4 npm install --global
-<iframe src="https://player.vimeo.com/video/658717418" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 5 Which is best
-<iframe src="https://player.vimeo.com/video/658717628" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Starting Applications
+<iframe src="https://player.vimeo.com/video/658722776" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
